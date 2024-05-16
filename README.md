@@ -1,5 +1,5 @@
 - The schema of the database, in SQL ddl (TableCreation.sql)
-- The developed code for loading the database
+- The developed code for loading the database (FullTable.py)
 - The developed code for the search engine
 - A listing of the whole DCRB directory and sub-directories
 - A snapshot of the search for a “non existing” string
