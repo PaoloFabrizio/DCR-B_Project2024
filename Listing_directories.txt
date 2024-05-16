@@ -1,0 +1,66 @@
+DCRB (dir):
+	Food (dir):
+		Salty (dir):
+			MainDishes (dir):
+				OtherToppings (dir):
+					Cheeseburger (file)
+					Doner kebab (file)
+					Hamburger (file)
+					Pasta con le sarde (file)
+					Pasta e ceci (file)
+					Pasta e fagioli (file)
+				WithTomatoSauce (dir):
+					Lasagna (file)
+					Pasta al forno (file)
+					Pizza (file)
+					Tomato sauce (file)
+				French fries (file)
+				Pasta (file)
+				Rice (file)
+			SecondCourses (dir):
+				Fish (dir):
+					Seafood (file)
+					Sushi (file)
+				Meat (dir):
+					Bacon (file)
+					Fried chicken (file)
+					Kebab (file)
+					Meat (file)
+					Meatball (file)
+					Roast beef (file)
+					Sandwich (file)
+					Turkey meat (file)
+				Eggs as food (file)
+				Salad (file)
+			Olive oil (file)
+		Sweet (dir):
+			Fridge (dir):
+				Fork (dir):
+					Cheesecake (file)
+				Spoon (dir):
+					Gelato (file)
+					Ice cream (file)
+					Sherbet (frozen dessert) (file)
+					Tiramisù (file)
+				Nutella (file)
+			Oven (dir):
+				Cocoa (dir):
+					Chocolate cake (file)
+					Chocolate salami (file)
+					Oreo (file)
+				DifferentFlavours (dir):
+					Apple pie (file)
+					Biscuit (file)
+					Cookie (file)
+					Pasticciotto (file)
+					Strudel (file)
+				Cake (file)
+				Pie (file)
+			Apple (file)
+			Avocado (file)
+			Corn flakes (file)
+			Rice Kriespies (file)
+			Sugar (file)
+		Beer (file)
+		Bread (file)
+		Wine (file)
