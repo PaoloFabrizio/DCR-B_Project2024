@@ -1,6 +1,6 @@
 - The schema of the database, in SQL ddl (TableCreation.sql)
 - The developed code for loading the database (FullTable.py)
-- The developed code for the search engine
+- The developed code for the search engine (FindWords.py)
 - A listing of the whole DCRB directory and sub-directories
 - A snapshot of the search for a “non existing” string
 - A snapshot of the search for a string matching at least two file names, but not found in any searchable file
