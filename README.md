@@ -11,3 +11,4 @@
 ## Additional things
 - Creation of others indexes on the table (index.sql)
 - See all the indexes (index_img.png)
+- Code to visualize the content (VisualizeContent.py)
