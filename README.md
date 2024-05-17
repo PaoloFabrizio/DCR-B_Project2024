@@ -9,3 +9,4 @@
 - A snapshot of the search for a string that does not match a file name but is found in at least one searchable file, with the counts of the occurrencies in the file(s) (onlyContent.png)
 
 ## Additional things
+- Creation of others indexes on the table (index.sql)
