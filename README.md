@@ -12,4 +12,4 @@
 - Creation of others indexes on the table (index.sql)
 - See all the indexes (index_img.png)
 - Code to visualize the content (VisualizeContent.py)
-- DCRB directory is inside /Universita/Materie/DCRmodB
+- DCRB directory is inside /Universita/Materie/DCRmodB (so 6 levels, including the 4 for the project are reached)
